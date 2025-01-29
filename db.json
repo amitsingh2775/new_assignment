@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "id": "47c1",
+      "firstName": "amit",
+      "lastName": "kumar",
+      "email": "amitsinghbadram@gmail.com",
+      "department": "MBA"
+    },
+    {
+      "id": "8eaf",
+      "firstName": "Uttam",
+      "lastName": "kumar",
+      "email": "uttam@gmail.com",
+      "department": "CSED new "
+    }
+  ]
+}
